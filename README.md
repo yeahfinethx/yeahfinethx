@@ -1,5 +1,5 @@
 - 👋 I’m @yeahfinethx
-- 🇺🇸 I'm from American
+- 🇺🇸 I'm from America
 - 🇬🇧 I'm living in the UK, though
 - 👀 I’m interested in just how many hats I can fit on my head
 - 🌱 I’m currently learning Python and am considering Javascript once I feel comfortable with Python
